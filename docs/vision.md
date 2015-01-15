@@ -16,3 +16,5 @@ The instructor want to play games with students in class but he had several prob
 So with these problems he can't hold class activities quite well.
 
 Our solution will make the class activity more interesting, fun and easy to held.
+
+![Vision](design.jpg)
