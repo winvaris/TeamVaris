@@ -7,3 +7,9 @@
 - Nut Kaewnak / 5610545676
 - Supason Kotanut / 5610546800
 - Patawat Watakul / 5610545714
+
+## Documents
+
+- [Requirements](docs/requirements.md)
+- [Vision](docs/vision.md)
+- [Use cases](docs/usecases.md)
