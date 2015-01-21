@@ -8,13 +8,13 @@ Instructors
 
 The instructor want to play games with students in class but he had several problems:
 
-- He doesn't know who ring in first because the classroom is large and the students aren't sitting together
-- The design of existing software is not attractive for the students'
-- He want students to be able to join remotely too
-- He want the students to answer in a short period of time when rang in but he doesn't want to use a stopwatch
+- The classroom is large and the students are not sitting together, for that, he doesn't know who rang in first.
+- The design of the existing software is not attractive for the students.
+- He wants the students to be able to join remotely too.
+- He wants the students to answer in a short period of time after ringing in. On the other hand, he doesn't want to use a stopwatch
 
-So with these problems he can't hold class activities quite well.
+With these problems cause him to have a hard time holding class activities.
 
-Our solution will make the class activity more interesting, fun and easy to held.
+Our solution will make the class activity look more interesting, fun and easy to held.
 
 ![Vision](design.jpg)
